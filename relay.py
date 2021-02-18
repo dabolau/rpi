@@ -4,7 +4,7 @@ import RPi.GPIO as GPIO
 
 
 ###
-# 控制继电器
+# 继电器控制程序
 ###
 class Relay():
     ###
